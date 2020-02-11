@@ -1,4 +1,3 @@
-# TypeScript BoilerPlate
-A small boilerplate I use for personal TS projects 📝
+# Docker Testing Repo
 
-Go [here](https://github.com/Fdebijl/tsbp/generate) to generate a new repo based on this boilerplate, or click the 'Use this template' button above.
+For testing selfhosted/cloud Docker provider
